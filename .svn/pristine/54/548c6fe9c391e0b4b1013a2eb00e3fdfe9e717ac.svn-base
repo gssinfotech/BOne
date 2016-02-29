@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BOne</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- String values for Create Account Screen -->
+    <string name="email_hint">Email</string>
+    <string name="country_code_hint">Code</string>
+    <string name="phone_no_hint">Phone number</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="rememberme_hint">Remember Me</string>
+    <string name="create_account_str">Create Account</string>  
+       
+   
+    <string name="alert_str">Registration Success.Please enter the authentication code sent to your registered mail.</string>
+    <string name="alert_title">B.One</string>
+    <!-- String values for Create Account Screen -->
+
+</resources>
