@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/app_background" >
+    
+      <Button 
+        android:id="@+id/menu_setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_settings"
+        android:background="@color/btn_background"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="@android:color/white"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        />
+     
+	<ImageView 
+	    android:layout_height="wrap_content"
+	    android:layout_width="wrap_content"
+	    android:src="@drawable/button_right"
+	    android:contentDescription="@string/menu_arrowimagedescription"
+	    android:layout_alignBottom="@+id/menu_setting"
+	 	android:layout_alignRight="@+id/menu_setting"
+	 	android:layout_alignEnd="@+id/menu_setting"
+	 	android:layout_alignTop="@+id/menu_setting"
+	    android:layout_marginRight="5dp"
+	 	android:layout_marginEnd="5dp"
+	   />
+      
+    <Button 
+        android:id="@+id/menu_myaccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_myaccoount"
+      	android:background="@color/btn_background"
+        android:layout_margin="10dp"
+        android:textColor="@android:color/white"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:layout_below="@id/menu_setting"
+        />
+    
+    <ImageView 
+	    android:layout_height="wrap_content"
+	    android:layout_width="wrap_content"
+	    android:src="@drawable/button_right"
+	    android:contentDescription="@string/menu_arrowimagedescription"
+	    android:layout_alignBottom="@+id/menu_myaccount"
+	 	android:layout_alignRight="@+id/menu_myaccount"
+	 	android:layout_alignEnd="@+id/menu_myaccount"
+	 	android:layout_alignTop="@+id/menu_myaccount"
+	    android:layout_marginRight="5dp"
+	 	android:layout_marginEnd="5dp"
+	   />
+      
+    
+     <Button 
+        android:id="@+id/menu_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_logout"
+        android:background="@color/btn_background"
+       	android:layout_margin="10dp"
+        android:textColor="@android:color/white"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:layout_below="@id/menu_myaccount"
+        />
+      <ImageView 
+	    android:layout_height="wrap_content"
+	    android:layout_width="wrap_content"
+	    android:src="@drawable/button_right"
+	    android:contentDescription="@string/menu_arrowimagedescription"
+	    android:layout_alignBottom="@+id/menu_logout"
+	 	android:layout_alignRight="@+id/menu_logout"
+	 	android:layout_alignEnd="@+id/menu_logout"
+	 	android:layout_alignTop="@+id/menu_logout"
+	    android:layout_marginRight="5dp"
+	 	android:layout_marginEnd="5dp"
+	   />
+      
+    <Button 
+        android:id="@+id/menu_getstart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_gettingstart"
+        android:background="@color/btn_background"
+        android:layout_margin="10dp"
+        android:textColor="@android:color/white"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:layout_below="@id/menu_logout"
+        />
+    
+     <ImageView 
+	    android:layout_height="wrap_content"
+	    android:layout_width="wrap_content"
+	    android:src="@drawable/button_right"
+	    android:contentDescription="@string/menu_arrowimagedescription"
+	    android:layout_alignBottom="@+id/menu_getstart"
+	 	android:layout_alignRight="@+id/menu_getstart"
+	 	android:layout_alignEnd="@+id/menu_getstart"
+	 	android:layout_alignTop="@+id/menu_getstart"
+	    android:layout_marginRight="5dp"
+	 	android:layout_marginEnd="5dp"
+	   />
+      
+ <Button 
+        android:id="@+id/menu_custId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_customerid"
+        android:background="@color/btn_background"
+        android:layout_margin="10dp"
+        android:textColor="@android:color/white"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:layout_below="@id/menu_getstart"
+        />
+   <ImageView 
+	    android:layout_height="wrap_content"
+	    android:layout_width="wrap_content"
+	    android:src="@drawable/button_right"
+	    android:contentDescription="@string/menu_arrowimagedescription"
+	    android:layout_alignBottom="@+id/menu_custId"
+	 	android:layout_alignRight="@+id/menu_custId"
+	 	android:layout_alignEnd="@+id/menu_custId"
+	 	android:layout_alignTop="@+id/menu_custId"
+	    android:layout_marginRight="5dp"
+	 	android:layout_marginEnd="5dp"
+	   />
+    <Switch
+        android:id="@+id/menu_switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+	    android:gravity="end"
+	    android:layout_below="@id/menu_custId"
+	    />
+ 
+</RelativeLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_background">
+
+     <TextView 
+	    android:id="@+id/motion_sensor_title"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginBottom="10dp"
+	    android:padding="5dp"
+	    android:text="@string/motion_sensor_heading"
+	    android:gravity="center"
+	    android:textColor="@color/white"
+	    android:textStyle="bold"
+	    android:textSize="17sp"/>
+    
+    <ImageButton
+         android:id="@+id/motion_sensor_settingbtn"
+         android:layout_width="30dp"
+         android:layout_height="wrap_content"
+         android:background="@drawable/settings_menu"
+         android:onClick="onSettingButtonClicked"
+         android:layout_alignBottom="@+id/motion_sensor_title"
+ 	    android:layout_alignRight="@+id/motion_sensor_title"
+ 	    android:layout_alignEnd="@+id/motion_sensor_title"
+ 	    android:layout_alignTop="@+id/motion_sensor_title"
+        android:contentDescription="@string/app_name"
+        android:layout_marginRight="10dp"
+        android:layout_marginEnd="10dp" />
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/bone_motion_big"
+        android:contentDescription="@string/app_name"
+        android:background="@color/motion_sensor_background" />
+
+</RelativeLayout>
