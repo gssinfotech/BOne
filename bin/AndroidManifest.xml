@@ -121,6 +121,25 @@
         <activity android:name="com.gssinfotech.bone.mysecurity.MySecurityActivity"
             android:screenOrientation="portrait"></activity>
         
+        <activity android:name="com.gssinfotech.bone.mysecurity.SecurityDeviceSettingsActivity"
+            android:screenOrientation="portrait"></activity>
+        
+        <activity android:name="com.gssinfotech.bone.mysecurity.SecurityDeviceHistoryActivity"
+            android:screenOrientation="portrait"></activity>
+
+        <activity android:name="com.gssinfotech.bone.mysecurity.ArmSettingActivity"
+            android:screenOrientation="portrait"></activity>
+         
+             
+        
+
+        <activity android:name="com.gssinfotech.bone.mysecurity.SensorActivity"
+            android:screenOrientation="portrait"></activity>
+        
+         <activity android:name="com.gssinfotech.bone.mysecurity.SirenActivity"
+            android:screenOrientation="portrait"></activity>
+        
+
         <!-- Goolge Maps API Key -->
 		<meta-data
 		     android:name="com.google.android.maps.v2.API_KEY"
