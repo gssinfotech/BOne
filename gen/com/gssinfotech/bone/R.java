@@ -514,61 +514,63 @@ containing a value of this type.
         public static final int common_signin_btn_text_pressed_dark=0x7f02002b;
         public static final int common_signin_btn_text_pressed_light=0x7f02002c;
         public static final int current=0x7f02002d;
-        public static final int door_close=0x7f02002e;
-        public static final int door_open=0x7f02002f;
-        public static final int drop=0x7f020030;
-        public static final int fibaro_door_sensor=0x7f020031;
-        public static final int fibaro_flood_sensor=0x7f020032;
-        public static final int fibaro_motion_sensor_big=0x7f020033;
-        public static final int fibero_motion_sensor=0x7f020034;
-        public static final int flood_sensor_outside=0x7f020035;
-        public static final int help_screen_arrow=0x7f020036;
-        public static final int home=0x7f020037;
-        public static final int ic_launcher=0x7f020038;
-        public static final int ic_plusone_medium_off_client=0x7f020039;
-        public static final int ic_plusone_small_off_client=0x7f02003a;
-        public static final int ic_plusone_standard_off_client=0x7f02003b;
-        public static final int ic_plusone_tall_off_client=0x7f02003c;
-        public static final int light91=0x7f02003d;
-        public static final int locksmenu=0x7f02003e;
-        public static final int menu_settings_et_bg=0x7f02003f;
-        public static final int motionsensormenu=0x7f020040;
-        public static final int multi_sensor_arrows=0x7f020041;
-        public static final int multisensor=0x7f020042;
-        public static final int my_devicebtn=0x7f020043;
-        public static final int my_musicbtn=0x7f020044;
-        public static final int my_remotebtn=0x7f020045;
-        public static final int my_securitybtn=0x7f020046;
-        public static final int nest_protect_smoke_sensor=0x7f020047;
-        public static final int openclosesensormenu=0x7f020048;
-        public static final int power_on=0x7f020049;
-        public static final int powered_by_google_dark=0x7f02004a;
-        public static final int powered_by_google_light=0x7f02004b;
-        public static final int qrcode=0x7f02004c;
-        public static final int sensor_bg=0x7f02004d;
-        public static final int sensor_bg_red=0x7f02004e;
-        public static final int settings_menu=0x7f02004f;
-        public static final int smart_sense_multi_sensor=0x7f020050;
-        public static final int smoke_sensor_transparent=0x7f020051;
-        public static final int smokesensormenu=0x7f020052;
-        public static final int splash_screen_temp=0x7f020053;
-        public static final int thermometer43=0x7f020054;
-        public static final int video_camera=0x7f020055;
-        public static final int videocameramenu=0x7f020056;
-        public static final int videodoorbell=0x7f020057;
-        public static final int waterfloodsensormenu=0x7f020058;
-        public static final int wemo_motion_sensor=0x7f020059;
-        public static final int wemo_motion_sensor_big=0x7f02005a;
-        public static final int white_tick=0x7f02005b;
-        public static final int yale_lock=0x7f02005c;
-        public static final int yale_lock_icon=0x7f02005d;
-        public static final int zwavesiren=0x7f02005e;
+        public static final int disarm=0x7f02002e;
+        public static final int door_close=0x7f02002f;
+        public static final int door_open=0x7f020030;
+        public static final int drop=0x7f020031;
+        public static final int fibaro_door_sensor=0x7f020032;
+        public static final int fibaro_flood_sensor=0x7f020033;
+        public static final int fibaro_motion_sensor_big=0x7f020034;
+        public static final int fibero_motion_sensor=0x7f020035;
+        public static final int flood_sensor_outside=0x7f020036;
+        public static final int help_screen_arrow=0x7f020037;
+        public static final int home=0x7f020038;
+        public static final int ic_launcher=0x7f020039;
+        public static final int ic_plusone_medium_off_client=0x7f02003a;
+        public static final int ic_plusone_small_off_client=0x7f02003b;
+        public static final int ic_plusone_standard_off_client=0x7f02003c;
+        public static final int ic_plusone_tall_off_client=0x7f02003d;
+        public static final int inhouse=0x7f02003e;
+        public static final int light91=0x7f02003f;
+        public static final int locksmenu=0x7f020040;
+        public static final int menu_settings_et_bg=0x7f020041;
+        public static final int motionsensormenu=0x7f020042;
+        public static final int multi_sensor_arrows=0x7f020043;
+        public static final int multisensor=0x7f020044;
+        public static final int my_devicebtn=0x7f020045;
+        public static final int my_musicbtn=0x7f020046;
+        public static final int my_remotebtn=0x7f020047;
+        public static final int my_securitybtn=0x7f020048;
+        public static final int nest_protect_smoke_sensor=0x7f020049;
+        public static final int openclosesensormenu=0x7f02004a;
+        public static final int power_on=0x7f02004b;
+        public static final int powered_by_google_dark=0x7f02004c;
+        public static final int powered_by_google_light=0x7f02004d;
+        public static final int qrcode=0x7f02004e;
+        public static final int sensor_bg=0x7f02004f;
+        public static final int sensor_bg_red=0x7f020050;
+        public static final int settings=0x7f020051;
+        public static final int settings_menu=0x7f020052;
+        public static final int smart_sense_multi_sensor=0x7f020053;
+        public static final int smoke_sensor_transparent=0x7f020054;
+        public static final int smokesensormenu=0x7f020055;
+        public static final int splash_screen_temp=0x7f020056;
+        public static final int thermometer43=0x7f020057;
+        public static final int video_camera=0x7f020058;
+        public static final int videocameramenu=0x7f020059;
+        public static final int videodoorbell=0x7f02005a;
+        public static final int waterfloodsensormenu=0x7f02005b;
+        public static final int wemo_motion_sensor=0x7f02005c;
+        public static final int wemo_motion_sensor_big=0x7f02005d;
+        public static final int white_tick=0x7f02005e;
+        public static final int yale_lock=0x7f02005f;
+        public static final int yale_lock_icon=0x7f020060;
+        public static final int zwavesiren=0x7f020061;
     }
     public static final class id {
-        public static final int TextView01=0x7f0700b3;
         public static final int _confrim_password=0x7f070056;
         public static final int _create_account_bt=0x7f070059;
-        public static final int _editTextDialogUserInput=0x7f0700d8;
+        public static final int _editTextDialogUserInput=0x7f0700f2;
         public static final int _emailid=0x7f070053;
         public static final int _heading_textview=0x7f070052;
         public static final int _password=0x7f070055;
@@ -580,7 +582,7 @@ containing a value of this type.
         public static final int acc_creation_heading_textview=0x7f070020;
         public static final int acc_creation_label_one_id=0x7f070022;
         public static final int acc_creation_label_two_id=0x7f070024;
-        public static final int action_settings=0x7f07010a;
+        public static final int action_settings=0x7f070124;
         public static final int actionabar_heading_textview=0x7f070026;
         public static final int add_device_cancel_btn=0x7f07003b;
         public static final int add_device_heading=0x7f070033;
@@ -597,30 +599,30 @@ containing a value of this type.
         public static final int adjust_width=0x7f070002;
         public static final int arm_setting_arminhouseothers_layout=0x7f07003d;
         public static final int arm_setting_detailsframe=0x7f07003e;
-        public static final int arm_setting_others_auto=0x7f0700ef;
-        public static final int arm_setting_others_delay=0x7f0700ee;
-        public static final int arm_setting_others_emergency=0x7f0700f3;
-        public static final int arm_setting_others_emergencyname1=0x7f0700f4;
-        public static final int arm_setting_others_emergencyname2=0x7f0700f6;
-        public static final int arm_setting_others_emergencyname3=0x7f0700f8;
-        public static final int arm_setting_others_emergencyname4=0x7f0700fa;
-        public static final int arm_setting_others_emergencyname5=0x7f0700fc;
-        public static final int arm_setting_others_emergencyname6=0x7f0700fe;
-        public static final int arm_setting_others_emergencyname7=0x7f070100;
-        public static final int arm_setting_others_emergencyname8=0x7f070102;
-        public static final int arm_setting_others_emergencyphone1=0x7f0700f5;
-        public static final int arm_setting_others_emergencyphone2=0x7f0700f7;
-        public static final int arm_setting_others_emergencyphone3=0x7f0700f9;
-        public static final int arm_setting_others_emergencyphone4=0x7f0700fb;
-        public static final int arm_setting_others_emergencyphone5=0x7f0700fd;
-        public static final int arm_setting_others_emergencyphone6=0x7f0700ff;
-        public static final int arm_setting_others_emergencyphone7=0x7f070101;
-        public static final int arm_setting_others_emergencyphone8=0x7f070103;
-        public static final int arm_setting_others_panicalarm=0x7f0700f2;
-        public static final int arm_setting_others_sirenwhilearm=0x7f0700f0;
-        public static final int arm_setting_others_sirenwhileinhouse=0x7f0700f1;
+        public static final int arm_setting_others_auto=0x7f070109;
+        public static final int arm_setting_others_delay=0x7f070108;
+        public static final int arm_setting_others_emergency=0x7f07010d;
+        public static final int arm_setting_others_emergencyname1=0x7f07010e;
+        public static final int arm_setting_others_emergencyname2=0x7f070110;
+        public static final int arm_setting_others_emergencyname3=0x7f070112;
+        public static final int arm_setting_others_emergencyname4=0x7f070114;
+        public static final int arm_setting_others_emergencyname5=0x7f070116;
+        public static final int arm_setting_others_emergencyname6=0x7f070118;
+        public static final int arm_setting_others_emergencyname7=0x7f07011a;
+        public static final int arm_setting_others_emergencyname8=0x7f07011c;
+        public static final int arm_setting_others_emergencyphone1=0x7f07010f;
+        public static final int arm_setting_others_emergencyphone2=0x7f070111;
+        public static final int arm_setting_others_emergencyphone3=0x7f070113;
+        public static final int arm_setting_others_emergencyphone4=0x7f070115;
+        public static final int arm_setting_others_emergencyphone5=0x7f070117;
+        public static final int arm_setting_others_emergencyphone6=0x7f070119;
+        public static final int arm_setting_others_emergencyphone7=0x7f07011b;
+        public static final int arm_setting_others_emergencyphone8=0x7f07011d;
+        public static final int arm_setting_others_panicalarm=0x7f07010c;
+        public static final int arm_setting_others_sirenwhilearm=0x7f07010a;
+        public static final int arm_setting_others_sirenwhileinhouse=0x7f07010b;
         public static final int arm_setting_savecan_layout=0x7f07003f;
-        public static final int arm_settinglist=0x7f0700ed;
+        public static final int arm_settinglist=0x7f070107;
         public static final int book_now=0x7f070012;
         public static final int btn1_arrow_id=0x7f070067;
         public static final int btn1_icon=0x7f070068;
@@ -633,8 +635,8 @@ containing a value of this type.
         public static final int buy_with=0x7f070014;
         public static final int buy_with_google=0x7f070015;
         public static final int cast_notification_id=0x7f070000;
-        public static final int change_pass_arrow_id=0x7f0700aa;
-        public static final int change_password_button_id=0x7f0700a9;
+        public static final int change_pass_arrow_id=0x7f0700b3;
+        public static final int change_password_button_id=0x7f0700b2;
         public static final int change_password_heading_textview=0x7f070040;
         public static final int classic=0x7f070019;
         public static final int confirm_pass_id=0x7f070043;
@@ -642,16 +644,16 @@ containing a value of this type.
         public static final int connect_hub_edittext_id=0x7f07004c;
         public static final int connect_hub_heading_textview=0x7f070045;
         public static final int connect_hub_hyd_textView=0x7f070046;
-        public static final int connect_hub_list_item_1=0x7f070104;
-        public static final int connect_hub_list_item_2=0x7f070105;
+        public static final int connect_hub_list_item_1=0x7f07011e;
+        public static final int connect_hub_list_item_2=0x7f07011f;
         public static final int connect_hub_ll_id=0x7f07004b;
         public static final int connect_hub_message_text_view=0x7f07004d;
         public static final int connect_hub_or_textView=0x7f07004a;
         public static final int connect_hub_relative_layout1=0x7f070047;
-        public static final int connected_device_text_id=0x7f0700a7;
-        public static final int connected_devices_listview_id=0x7f0700a8;
+        public static final int connected_device_text_id=0x7f0700b0;
+        public static final int connected_devices_listview_id=0x7f0700b1;
         public static final int content_hub_bar_code_button=0x7f070048;
-        public static final int create_acc_dialog_txt=0x7f0700d7;
+        public static final int create_acc_dialog_txt=0x7f0700f1;
         public static final int current_pass_id=0x7f070041;
         public static final int device_central_actionabar_heading_textview=0x7f07005a;
         public static final int device_central_actionbarhome_button_id=0x7f07005b;
@@ -669,84 +671,91 @@ containing a value of this type.
         public static final int device_central_videocamera_button_id=0x7f07005d;
         public static final int device_central_videodoor_button_id=0x7f07005c;
         public static final int device_cntral_detail_homebtn=0x7f070065;
-        public static final int device_security_history_btn_arrow_id=0x7f0700c8;
-        public static final int device_security_history_btn_id=0x7f0700c7;
-        public static final int device_security_rules_btn_arrow_id=0x7f0700ca;
-        public static final int device_security_rules_btn_id=0x7f0700c9;
-        public static final int device_settings_heading=0x7f0700c6;
-        public static final int devices_btn_tick_id=0x7f0700eb;
-        public static final int dialog_hub_home_cancel_btn_id=0x7f0700e2;
-        public static final int dialog_hub_home_connect_btn_id=0x7f0700e1;
-        public static final int dialog_hub_home_label_one_id=0x7f0700db;
-        public static final int dialog_hub_home_label_two_id=0x7f0700dd;
-        public static final int dialog_hub_home_line_id=0x7f0700da;
-        public static final int dialog_hub_home_ll_btns_id=0x7f0700e0;
-        public static final int dialog_hub_home_ll_pass_id=0x7f0700de;
-        public static final int dialog_hub_home_password_id=0x7f0700df;
-        public static final int dialog_hub_home_security_id=0x7f0700dc;
-        public static final int dialog_hub_home_title_id=0x7f0700d9;
-        public static final int dialog_user_permissions_done=0x7f0700ec;
-        public static final int dialog_user_permissions_tv=0x7f0700e3;
-        public static final int disarm_image_id=0x7f0700b1;
-        public static final int disarm_text_id=0x7f0700b2;
+        public static final int device_security_history_btn_arrow_id=0x7f0700e2;
+        public static final int device_security_history_btn_id=0x7f0700e1;
+        public static final int device_security_rules_btn_arrow_id=0x7f0700e4;
+        public static final int device_security_rules_btn_id=0x7f0700e3;
+        public static final int device_settings_heading=0x7f0700e0;
+        public static final int devices_btn_tick_id=0x7f070105;
+        public static final int devices_myrules_editbox1=0x7f070072;
+        public static final int devices_myrules_editbox2=0x7f070074;
+        public static final int devices_myrules_heading=0x7f07006f;
+        public static final int devices_myrules_homebtn=0x7f070070;
+        public static final int devices_myrules_if=0x7f070071;
+        public static final int devices_myrules_notification=0x7f070076;
+        public static final int devices_myrules_notification_switch=0x7f070077;
+        public static final int devices_myrules_statement=0x7f070075;
+        public static final int devices_myrules_then=0x7f070073;
+        public static final int dialog_hub_home_cancel_btn_id=0x7f0700fc;
+        public static final int dialog_hub_home_connect_btn_id=0x7f0700fb;
+        public static final int dialog_hub_home_label_one_id=0x7f0700f5;
+        public static final int dialog_hub_home_label_two_id=0x7f0700f7;
+        public static final int dialog_hub_home_line_id=0x7f0700f4;
+        public static final int dialog_hub_home_ll_btns_id=0x7f0700fa;
+        public static final int dialog_hub_home_ll_pass_id=0x7f0700f8;
+        public static final int dialog_hub_home_password_id=0x7f0700f9;
+        public static final int dialog_hub_home_security_id=0x7f0700f6;
+        public static final int dialog_hub_home_title_id=0x7f0700f3;
+        public static final int dialog_user_permissions_done=0x7f070106;
+        public static final int dialog_user_permissions_tv=0x7f0700fd;
         public static final int donate_with=0x7f070016;
         public static final int donate_with_google=0x7f070017;
         public static final int done_button_id=0x7f070044;
-        public static final int forgot_pass_id=0x7f070085;
+        public static final int forgot_pass_id=0x7f07008e;
         public static final int google_wallet_classic=0x7f07001a;
         public static final int google_wallet_grayscale=0x7f07001b;
         public static final int google_wallet_monochrome=0x7f07001c;
         public static final int grayscale=0x7f07001d;
-        public static final int guest_user_delete_btn_id=0x7f070107;
-        public static final int guest_user_list_item_1=0x7f070106;
-        public static final int history_by_dateButton=0x7f0700c4;
-        public static final int history_heading=0x7f0700c1;
-        public static final int history_homebtn=0x7f0700c2;
-        public static final int history_listView=0x7f0700c3;
+        public static final int guest_user_delete_btn_id=0x7f070121;
+        public static final int guest_user_list_item_1=0x7f070120;
+        public static final int history_by_dateButton=0x7f0700de;
+        public static final int history_heading=0x7f0700db;
+        public static final int history_homebtn=0x7f0700dc;
+        public static final int history_listView=0x7f0700dd;
         public static final int holo_dark=0x7f070008;
         public static final int holo_light=0x7f070009;
-        public static final int home_screen_account_btn_arrow_id=0x7f070076;
-        public static final int home_screen_create_new_btn_id=0x7f070072;
-        public static final int home_screen_have_account_btn_id=0x7f070075;
-        public static final int home_screen_img_btn_id=0x7f07006f;
-        public static final int home_screen_intelligent_lbl_id=0x7f070071;
-        public static final int home_screen_new_btn_arrow_id=0x7f070073;
-        public static final int home_screen_or_lbl_id=0x7f070074;
-        public static final int home_screen_welcome_lbl_id=0x7f070070;
-        public static final int hub_health_heading_textview=0x7f070077;
+        public static final int home_screen_account_btn_arrow_id=0x7f07007f;
+        public static final int home_screen_create_new_btn_id=0x7f07007b;
+        public static final int home_screen_have_account_btn_id=0x7f07007e;
+        public static final int home_screen_img_btn_id=0x7f070078;
+        public static final int home_screen_intelligent_lbl_id=0x7f07007a;
+        public static final int home_screen_new_btn_arrow_id=0x7f07007c;
+        public static final int home_screen_or_lbl_id=0x7f07007d;
+        public static final int home_screen_welcome_lbl_id=0x7f070079;
+        public static final int hub_health_heading_textview=0x7f070080;
         public static final int hub_to_wifi_heading_textview=0x7f07004f;
         public static final int hub_to_wifi_label_id=0x7f070050;
         public static final int hub_to_wifi_listview_id=0x7f070051;
         public static final int hybrid=0x7f070004;
         public static final int imageView1=0x7f070049;
-        public static final int layout1=0x7f070078;
-        public static final int layout2=0x7f070079;
-        public static final int layout_root=0x7f0700d6;
-        public static final int locks_heading=0x7f07007a;
-        public static final int locks_settings_btn=0x7f07007b;
-        public static final int locks_yale_icon=0x7f07007d;
-        public static final int locks_yale_lock_img=0x7f07007c;
-        public static final int locks_yale_switch=0x7f07007f;
-        public static final int locks_yalelock=0x7f07007e;
-        public static final int login_button_id=0x7f070086;
-        public static final int login_email_id=0x7f070081;
-        public static final int login_heading_textview=0x7f070080;
-        public static final int login_password_id=0x7f070082;
-        public static final int login_rememberme_layout=0x7f070083;
+        public static final int layout1=0x7f070081;
+        public static final int layout2=0x7f070082;
+        public static final int layout_root=0x7f0700f0;
+        public static final int locks_heading=0x7f070083;
+        public static final int locks_settings_btn=0x7f070084;
+        public static final int locks_yale_icon=0x7f070086;
+        public static final int locks_yale_lock_img=0x7f070085;
+        public static final int locks_yale_switch=0x7f070088;
+        public static final int locks_yalelock=0x7f070087;
+        public static final int login_button_id=0x7f07008f;
+        public static final int login_email_id=0x7f07008a;
+        public static final int login_heading_textview=0x7f070089;
+        public static final int login_password_id=0x7f07008b;
+        public static final int login_rememberme_layout=0x7f07008c;
         public static final int logo_only=0x7f070018;
-        public static final int main_home_devices_btn_id=0x7f07008c;
-        public static final int main_home_img_btn_id=0x7f070088;
-        public static final int main_home_menu_btn_id=0x7f070087;
-        public static final int main_home_music_btn_id=0x7f07008b;
-        public static final int main_home_remote_btn_id=0x7f07008a;
-        public static final int main_home_security_btn_id=0x7f070089;
-        public static final int manage_user_arrow_id=0x7f0700ac;
-        public static final int manage_user_button_id=0x7f0700ab;
-        public static final int manage_user_email_heading=0x7f070092;
-        public static final int manage_user_heading_textview=0x7f07008d;
-        public static final int manage_user_invite_button_arrow_id=0x7f07008f;
-        public static final int manage_user_invite_button_id=0x7f07008e;
-        public static final int manage_users_listview_id=0x7f070091;
+        public static final int main_home_devices_btn_id=0x7f070095;
+        public static final int main_home_img_btn_id=0x7f070091;
+        public static final int main_home_menu_btn_id=0x7f070090;
+        public static final int main_home_music_btn_id=0x7f070094;
+        public static final int main_home_remote_btn_id=0x7f070093;
+        public static final int main_home_security_btn_id=0x7f070092;
+        public static final int manage_user_arrow_id=0x7f0700b5;
+        public static final int manage_user_button_id=0x7f0700b4;
+        public static final int manage_user_email_heading=0x7f07009b;
+        public static final int manage_user_heading_textview=0x7f070096;
+        public static final int manage_user_invite_button_arrow_id=0x7f070098;
+        public static final int manage_user_invite_button_id=0x7f070097;
+        public static final int manage_users_listview_id=0x7f07009a;
         public static final int map=0x7f070032;
         public static final int match_parent=0x7f070010;
         public static final int menu_custId=0x7f07002b;
@@ -755,82 +764,102 @@ containing a value of this type.
         public static final int menu_logout=0x7f070029;
         public static final int menu_myaccount=0x7f070028;
         public static final int menu_setting=0x7f070027;
-        public static final int menu_settings_delete_btn=0x7f070098;
-        public static final int menu_settings_heading_textview=0x7f070095;
-        public static final int menu_settings_ip_tv=0x7f0700a4;
-        public static final int menu_settings_key_et=0x7f0700a2;
-        public static final int menu_settings_key_tv=0x7f0700a1;
-        public static final int menu_settings_ll_btns=0x7f070096;
-        public static final int menu_settings_ll_ip=0x7f0700a3;
-        public static final int menu_settings_ll_key=0x7f0700a0;
-        public static final int menu_settings_ll_password=0x7f07009d;
-        public static final int menu_settings_ll_ssid=0x7f07009a;
-        public static final int menu_settings_password_et=0x7f07009f;
-        public static final int menu_settings_password_tv=0x7f07009e;
-        public static final int menu_settings_reset_btn=0x7f070099;
-        public static final int menu_settings_rsd_btn=0x7f070097;
-        public static final int menu_settings_send_btn=0x7f0700a5;
-        public static final int menu_settings_ssid_et=0x7f07009c;
-        public static final int menu_settings_ssid_tv=0x7f07009b;
+        public static final int menu_settings_delete_btn=0x7f0700a1;
+        public static final int menu_settings_heading_textview=0x7f07009e;
+        public static final int menu_settings_ip_tv=0x7f0700ad;
+        public static final int menu_settings_key_et=0x7f0700ab;
+        public static final int menu_settings_key_tv=0x7f0700aa;
+        public static final int menu_settings_ll_btns=0x7f07009f;
+        public static final int menu_settings_ll_ip=0x7f0700ac;
+        public static final int menu_settings_ll_key=0x7f0700a9;
+        public static final int menu_settings_ll_password=0x7f0700a6;
+        public static final int menu_settings_ll_ssid=0x7f0700a3;
+        public static final int menu_settings_password_et=0x7f0700a8;
+        public static final int menu_settings_password_tv=0x7f0700a7;
+        public static final int menu_settings_reset_btn=0x7f0700a2;
+        public static final int menu_settings_rsd_btn=0x7f0700a0;
+        public static final int menu_settings_send_btn=0x7f0700ae;
+        public static final int menu_settings_ssid_et=0x7f0700a5;
+        public static final int menu_settings_ssid_tv=0x7f0700a4;
         public static final int menu_switch=0x7f07002d;
         public static final int monochrome=0x7f07001e;
-        public static final int motion_sensor_bg=0x7f0700ba;
-        public static final int motion_sensor_bg_img=0x7f0700bb;
-        public static final int motion_sensor_drop=0x7f0700bc;
-        public static final int motion_sensor_settingbtn=0x7f0700b9;
-        public static final int motion_sensor_title=0x7f0700b8;
-        public static final int music_btn_tick_id=0x7f0700e9;
-        public static final int my_account_list_item_1=0x7f070108;
-        public static final int my_account_list_item_2=0x7f070109;
-        public static final int myacc_heading_textview=0x7f0700a6;
-        public static final int mysecurity_actionabar_heading_textview=0x7f0700ad;
-        public static final int mysecurity_actionbarhome_button_id=0x7f0700ae;
-        public static final int mysecurity_add_button=0x7f0700b7;
-        public static final int mysecurity_heading_textview=0x7f0700b4;
-        public static final int mysecurity_info_one=0x7f0700b5;
-        public static final int mysecurity_info_two=0x7f0700b6;
+        public static final int motion_sensor_bg=0x7f0700d4;
+        public static final int motion_sensor_bg_img=0x7f0700d5;
+        public static final int motion_sensor_drop=0x7f0700d6;
+        public static final int motion_sensor_settingbtn=0x7f0700d3;
+        public static final int motion_sensor_title=0x7f0700d2;
+        public static final int music_btn_tick_id=0x7f070103;
+        public static final int my_account_list_item_1=0x7f070122;
+        public static final int my_account_list_item_2=0x7f070123;
+        public static final int myacc_heading_textview=0x7f0700af;
+        public static final int mydevice_addlights_add_location_edittext=0x7f0700bb;
+        public static final int mydevice_addlights_add_serialnum_edittext=0x7f0700bc;
+        public static final int mydevice_addlights_addbulb=0x7f0700bd;
+        public static final int mydevice_addlights_findbridge=0x7f0700b8;
+        public static final int mydevice_addlights_heading=0x7f0700b6;
+        public static final int mydevice_addlights_homebtn=0x7f0700b7;
+        public static final int mydevice_addlights_select_device_spinner=0x7f0700b9;
+        public static final int mydevice_addlights_select_location_spinner=0x7f0700ba;
+        public static final int mydevices_add_button=0x7f0700c1;
+        public static final int mydevices_heading_textview=0x7f0700be;
+        public static final int mydevices_info_one=0x7f0700bf;
+        public static final int mydevices_info_two=0x7f0700c0;
+        public static final int mysecurity_add_button=0x7f0700d1;
+        public static final int mysecurity_arm_btn=0x7f0700c6;
+        public static final int mysecurity_arm_text=0x7f0700c7;
+        public static final int mysecurity_disarm_btn=0x7f0700ca;
+        public static final int mysecurity_disarm_text=0x7f0700cb;
+        public static final int mysecurity_heading_textview=0x7f0700ce;
+        public static final int mysecurity_info_one=0x7f0700cf;
+        public static final int mysecurity_info_two=0x7f0700d0;
+        public static final int mysecurity_inhouse_btn=0x7f0700c8;
+        public static final int mysecurity_inhouse_text=0x7f0700c9;
+        public static final int mysecurity_listview=0x7f0700c4;
+        public static final int mysecurity_relative_layout=0x7f0700c5;
+        public static final int mysecurity_settingbtn=0x7f0700c3;
+        public static final int mysecurity_settings_btn=0x7f0700cc;
+        public static final int mysecurity_settings_text=0x7f0700cd;
+        public static final int mysecurity_title=0x7f0700c2;
         public static final int new_pass_id=0x7f070042;
         public static final int none=0x7f070003;
         public static final int normal=0x7f070005;
         public static final int production=0x7f07000a;
-        public static final int qr_scanner_cameraPreview=0x7f0700bd;
-        public static final int qr_scanner_doneButton=0x7f0700c0;
-        public static final int qr_scanner_scanButton=0x7f0700bf;
-        public static final int qr_scanner_scanText=0x7f0700be;
-        public static final int relative_lay_id=0x7f0700af;
-        public static final int remember_id=0x7f070084;
+        public static final int qr_scanner_cameraPreview=0x7f0700d7;
+        public static final int qr_scanner_doneButton=0x7f0700da;
+        public static final int qr_scanner_scanButton=0x7f0700d9;
+        public static final int qr_scanner_scanText=0x7f0700d8;
+        public static final int remember_id=0x7f07008d;
         public static final int rememberme_layout=0x7f070057;
-        public static final int remote_btn_tick_id=0x7f0700e7;
-        public static final int remove_historyButton=0x7f0700c5;
+        public static final int remote_btn_tick_id=0x7f070101;
+        public static final int remove_historyButton=0x7f0700df;
         public static final int sandbox=0x7f07000b;
         public static final int satellite=0x7f070006;
-        public static final int security_btn_tick_id=0x7f0700e5;
+        public static final int security_btn_tick_id=0x7f0700ff;
         public static final int select_device_spinner=0x7f070036;
         public static final int select_location_spinner=0x7f070037;
         public static final int selectionDetails=0x7f07000f;
-        public static final int siren_bone_icon=0x7f0700ce;
-        public static final int siren_bone_siren_img=0x7f0700cd;
-        public static final int siren_bone_siren_text=0x7f0700cf;
-        public static final int siren_heading=0x7f0700cb;
-        public static final int siren_settings_btn=0x7f0700cc;
-        public static final int siren_switch=0x7f0700d0;
+        public static final int siren_bone_icon=0x7f0700e8;
+        public static final int siren_bone_siren_img=0x7f0700e7;
+        public static final int siren_bone_siren_text=0x7f0700e9;
+        public static final int siren_heading=0x7f0700e5;
+        public static final int siren_settings_btn=0x7f0700e6;
+        public static final int siren_switch=0x7f0700ea;
         public static final int slide=0x7f07001f;
         public static final int strict_sandbox=0x7f07000c;
         public static final int terrain=0x7f070007;
         public static final int test=0x7f07000d;
-        public static final int textView1=0x7f0700b0;
-        public static final int user_email_id=0x7f070094;
-        public static final int user_email_text=0x7f070093;
-        public static final int user_email_text_id=0x7f070090;
-        public static final int user_permissions_devices_btn_id=0x7f0700ea;
-        public static final int user_permissions_music_btn_id=0x7f0700e8;
-        public static final int user_permissions_remote_btn_id=0x7f0700e6;
-        public static final int user_permissions_security_btn_id=0x7f0700e4;
-        public static final int wlan_network_done_btn_id=0x7f0700d5;
-        public static final int wlan_network_heading_textview=0x7f0700d1;
-        public static final int wlan_network_label_one_id=0x7f0700d2;
-        public static final int wlan_network_label_three_id=0x7f0700d4;
-        public static final int wlan_network_label_two_id=0x7f0700d3;
+        public static final int user_email_id=0x7f07009d;
+        public static final int user_email_text=0x7f07009c;
+        public static final int user_email_text_id=0x7f070099;
+        public static final int user_permissions_devices_btn_id=0x7f070104;
+        public static final int user_permissions_music_btn_id=0x7f070102;
+        public static final int user_permissions_remote_btn_id=0x7f070100;
+        public static final int user_permissions_security_btn_id=0x7f0700fe;
+        public static final int wlan_network_done_btn_id=0x7f0700ef;
+        public static final int wlan_network_heading_textview=0x7f0700eb;
+        public static final int wlan_network_label_one_id=0x7f0700ec;
+        public static final int wlan_network_label_three_id=0x7f0700ee;
+        public static final int wlan_network_label_two_id=0x7f0700ed;
         public static final int wrap_content=0x7f070011;
     }
     public static final class integer {
@@ -848,33 +877,36 @@ containing a value of this type.
         public static final int activity_create_account=0x7f030008;
         public static final int activity_device_central=0x7f030009;
         public static final int activity_device_central_detail=0x7f03000a;
-        public static final int activity_home_screen=0x7f03000b;
-        public static final int activity_hub_health=0x7f03000c;
-        public static final int activity_locks=0x7f03000d;
-        public static final int activity_login=0x7f03000e;
-        public static final int activity_main_home_screen=0x7f03000f;
-        public static final int activity_manage_user=0x7f030010;
-        public static final int activity_manage_user_email=0x7f030011;
-        public static final int activity_menu_settings=0x7f030012;
-        public static final int activity_my_account=0x7f030013;
-        public static final int activity_mysecurity=0x7f030014;
-        public static final int activity_mysecurity_empty=0x7f030015;
-        public static final int activity_mysecurity_sensor=0x7f030016;
-        public static final int activity_qr_code_scanner=0x7f030017;
-        public static final int activity_security_device_history=0x7f030018;
-        public static final int activity_security_device_settings=0x7f030019;
-        public static final int activity_siren=0x7f03001a;
-        public static final int activity_splash_screen=0x7f03001b;
-        public static final int activity_wlan_network=0x7f03001c;
-        public static final int create_account_alertdialog=0x7f03001d;
-        public static final int dialog_connect_hub_to_home_wifi=0x7f03001e;
-        public static final int dialog_manage_user_permissions=0x7f03001f;
-        public static final int fragment_arm=0x7f030020;
-        public static final int fragment_others=0x7f030021;
-        public static final int list_item_connect_hub=0x7f030022;
-        public static final int list_item_guest_user=0x7f030023;
-        public static final int list_item_my_account=0x7f030024;
-        public static final int logout_alertdialog=0x7f030025;
+        public static final int activity_devices_myrules=0x7f03000b;
+        public static final int activity_home_screen=0x7f03000c;
+        public static final int activity_hub_health=0x7f03000d;
+        public static final int activity_locks=0x7f03000e;
+        public static final int activity_login=0x7f03000f;
+        public static final int activity_main_home_screen=0x7f030010;
+        public static final int activity_manage_user=0x7f030011;
+        public static final int activity_manage_user_email=0x7f030012;
+        public static final int activity_menu_settings=0x7f030013;
+        public static final int activity_my_account=0x7f030014;
+        public static final int activity_mydevices_add_lights=0x7f030015;
+        public static final int activity_mydevices_empty=0x7f030016;
+        public static final int activity_mysecurity=0x7f030017;
+        public static final int activity_mysecurity_empty=0x7f030018;
+        public static final int activity_mysecurity_sensor=0x7f030019;
+        public static final int activity_qr_code_scanner=0x7f03001a;
+        public static final int activity_security_device_history=0x7f03001b;
+        public static final int activity_security_device_settings=0x7f03001c;
+        public static final int activity_siren=0x7f03001d;
+        public static final int activity_splash_screen=0x7f03001e;
+        public static final int activity_wlan_network=0x7f03001f;
+        public static final int create_account_alertdialog=0x7f030020;
+        public static final int dialog_connect_hub_to_home_wifi=0x7f030021;
+        public static final int dialog_manage_user_permissions=0x7f030022;
+        public static final int fragment_arm=0x7f030023;
+        public static final int fragment_others=0x7f030024;
+        public static final int list_item_connect_hub=0x7f030025;
+        public static final int list_item_guest_user=0x7f030026;
+        public static final int list_item_my_account=0x7f030027;
+        public static final int logout_alertdialog=0x7f030028;
     }
     public static final class menu {
         public static final int splash_screen=0x7f0b0000;
@@ -890,15 +922,15 @@ containing a value of this type.
         public static final int account_help_instruction_one_string=0x7f060045;
         public static final int account_help_instruction_two_string=0x7f060046;
         public static final int action_settings=0x7f06002e;
-        public static final int add_device_cancel_btn=0x7f060084;
-        public static final int add_device_hint_one=0x7f060080;
-        public static final int add_device_hint_three=0x7f060082;
-        public static final int add_device_hint_two=0x7f060081;
-        public static final int add_device_info=0x7f06007f;
-        public static final int add_device_save_btn=0x7f060083;
+        public static final int add_device_cancel_btn=0x7f060080;
+        public static final int add_device_hint_one=0x7f06007c;
+        public static final int add_device_hint_three=0x7f06007e;
+        public static final int add_device_hint_two=0x7f06007d;
+        public static final int add_device_info=0x7f06007b;
+        public static final int add_device_save_btn=0x7f06007f;
         /**  Add device screen strings 
          */
-        public static final int add_device_title=0x7f06007e;
+        public static final int add_device_title=0x7f06007a;
         public static final int add_loc_done_btn_string=0x7f060040;
         public static final int add_loc_hint_string=0x7f06003f;
         /**  Add Location layout constants  
@@ -909,7 +941,7 @@ containing a value of this type.
         public static final int app_name=0x7f06002c;
         /**  ARM Settings 
          */
-        public static final int armsetting_title=0x7f0600a9;
+        public static final int armsetting_title=0x7f0600a7;
         /**  Brand name for Facebook [DO NOT TRANSLATE] 
          */
         public static final int auth_google_play_services_client_facebook_display_name=0x7f060007;
@@ -925,12 +957,12 @@ containing a value of this type.
         /**  Label of a button to disconnect an active cast display connection.  [CHAR LIMIT=25] NOTE: Same text as msgid="9024230238785261495" 
          */
         public static final int cast_notification_disconnect=0x7f06000a;
-        public static final int change_pass_confirm_pass_hint=0x7f06005c;
+        public static final int change_pass_confirm_pass_hint=0x7f060058;
         /** Change Password Screen 
          */
-        public static final int change_pass_current_pass_hint=0x7f06005a;
-        public static final int change_pass_done_button=0x7f06005d;
-        public static final int change_pass_new_pass_hint=0x7f06005b;
+        public static final int change_pass_current_pass_hint=0x7f060056;
+        public static final int change_pass_done_button=0x7f060059;
+        public static final int change_pass_new_pass_hint=0x7f060057;
         /**   Text for notification shown when the Android Wear apps needs to be updated. Only shown on the wearable. [CHAR LIMIT=NONE] 
          */
         public static final int common_android_wear_notification_needs_update_text=0x7f06000d;
@@ -1044,15 +1076,15 @@ containing a value of this type.
          */
         public static final int common_signin_button_text_long=0x7f060026;
         public static final int confirm_password_hint=0x7f060033;
-        public static final int connect_hub_done=0x7f060059;
-        public static final int connect_hub_enter_code=0x7f060057;
+        public static final int connect_hub_done=0x7f060055;
+        public static final int connect_hub_enter_code=0x7f060053;
         /**  Connect Hub Screen 
          */
-        public static final int connect_hub_hyd=0x7f060053;
-        public static final int connect_hub_id_code=0x7f060056;
-        public static final int connect_hub_message=0x7f060058;
-        public static final int connect_hub_or=0x7f060055;
-        public static final int connect_hub_scan_bar_code=0x7f060054;
+        public static final int connect_hub_hyd=0x7f06004f;
+        public static final int connect_hub_id_code=0x7f060052;
+        public static final int connect_hub_message=0x7f060054;
+        public static final int connect_hub_or=0x7f060051;
+        public static final int connect_hub_scan_bar_code=0x7f060050;
         /**  Connect hub to available wifi networks layout constants 
          */
         public static final int connect_hub_to_wifi_instruction_string=0x7f060048;
@@ -1060,48 +1092,51 @@ containing a value of this type.
         public static final int create_account_str=0x7f060035;
         public static final int create_calendar_message=0x7f060005;
         public static final int create_calendar_title=0x7f060004;
-        public static final int date_history=0x7f0600a7;
+        public static final int date_history=0x7f0600a3;
         public static final int decline=0x7f060003;
-        public static final int device_central_floodsensor_str=0x7f06008d;
-        public static final int device_central_locks_str=0x7f060087;
-        public static final int device_central_motionsensor_str=0x7f060088;
-        public static final int device_central_multisensor_str=0x7f060089;
-        public static final int device_central_open_close_sensor_str=0x7f06008c;
-        public static final int device_central_siren_str=0x7f06008b;
-        public static final int device_central_smokesensor_str=0x7f06008a;
-        public static final int device_central_videocamera_str=0x7f060086;
+        public static final int device_central_floodsensor_str=0x7f060089;
+        public static final int device_central_locks_str=0x7f060083;
+        public static final int device_central_motionsensor_str=0x7f060084;
+        public static final int device_central_multisensor_str=0x7f060085;
+        public static final int device_central_open_close_sensor_str=0x7f060088;
+        public static final int device_central_siren_str=0x7f060087;
+        public static final int device_central_smokesensor_str=0x7f060086;
+        public static final int device_central_videocamera_str=0x7f060082;
         /**  Add device Central screen strings 
          */
-        public static final int device_central_videodoor_str=0x7f060085;
+        public static final int device_central_videodoor_str=0x7f060081;
         /**  Security Device Settings 
          */
-        public static final int device_setting_history=0x7f0600a3;
-        public static final int device_setting_my_rules=0x7f0600a4;
-        public static final int dialog_hub_to_home_Connect_string=0x7f060051;
-        public static final int dialog_hub_to_home_cancel_string=0x7f060052;
-        public static final int dialog_hub_to_home_password_hint=0x7f060050;
-        public static final int dialog_hub_to_home_password_string=0x7f06004f;
-        public static final int dialog_hub_to_home_security_string=0x7f06004e;
+        public static final int device_setting_history=0x7f06009f;
+        public static final int device_setting_my_rules=0x7f0600a0;
+        /**  Devices Screen  
+         */
+        public static final int devicesmyrules_title=0x7f0600a9;
+        public static final int dialog_hub_to_home_Connect_string=0x7f06004d;
+        public static final int dialog_hub_to_home_cancel_string=0x7f06004e;
+        public static final int dialog_hub_to_home_password_hint=0x7f06004c;
+        public static final int dialog_hub_to_home_password_string=0x7f06004b;
+        public static final int dialog_hub_to_home_security_string=0x7f06004a;
         /**  Dialog connect hub to home wifi constants 
          */
-        public static final int dialog_hub_to_home_title_string=0x7f06004d;
-        public static final int door_sensor_aeon=0x7f06009f;
-        public static final int door_sensor_bone=0x7f06009e;
-        public static final int door_sensor_fibaro=0x7f0600a0;
+        public static final int dialog_hub_to_home_title_string=0x7f060049;
+        public static final int door_sensor_aeon=0x7f06009b;
+        public static final int door_sensor_bone=0x7f06009a;
+        public static final int door_sensor_fibaro=0x7f06009c;
         /**  Door sensor screen strings  
          */
-        public static final int door_sensor_screen_title=0x7f06009d;
+        public static final int door_sensor_screen_title=0x7f060099;
         /**  String values for Create Account Screen 
          */
         public static final int email_hint=0x7f06002f;
-        public static final int flood_sensor_fibaro=0x7f0600a2;
+        public static final int flood_sensor_fibaro=0x7f06009e;
         /**  Flood sensor screen strings  
          */
-        public static final int flood_sensor_screen_title=0x7f0600a1;
+        public static final int flood_sensor_screen_title=0x7f06009d;
         public static final int hello_world=0x7f06002d;
         /**  History Settings 
          */
-        public static final int history_title=0x7f0600a6;
+        public static final int history_title=0x7f0600a2;
         public static final int home_screen_arrow_string=0x7f06003d;
         public static final int home_screen_have_account_btn_string=0x7f06003b;
         public static final int home_screen_intelligent_string=0x7f060039;
@@ -1113,97 +1148,92 @@ containing a value of this type.
         public static final int home_screen_welcome_string=0x7f060038;
         /**  Locks screen strings 
          */
-        public static final int locks_title=0x7f060090;
-        public static final int locks_yale_lock=0x7f060091;
-        public static final int login_button=0x7f060063;
+        public static final int locks_title=0x7f06008c;
+        public static final int locks_yale_lock=0x7f06008d;
+        public static final int login_button=0x7f06005f;
         /** Login Screen 
          */
-        public static final int login_email_id=0x7f06005e;
-        public static final int login_forgot_password=0x7f060062;
-        public static final int login_password=0x7f06005f;
-        public static final int login_remember_me=0x7f060060;
-        public static final int main_home_devices_string=0x7f06004c;
-        public static final int main_home_music_string=0x7f06004b;
-        public static final int main_home_remote_string=0x7f06004a;
-        /** Main Homescreen  layout constants  
-         */
-        public static final int main_home_security_string=0x7f060049;
-        public static final int manage_user=0x7f06006a;
-        public static final int manage_user_dialog_text=0x7f060068;
-        public static final int manage_user_done_button=0x7f060067;
-        public static final int manage_user_email=0x7f060065;
-        public static final int manage_user_email_id=0x7f060066;
+        public static final int login_email_id=0x7f06005a;
+        public static final int login_forgot_password=0x7f06005e;
+        public static final int login_password=0x7f06005b;
+        public static final int login_remember_me=0x7f06005c;
+        public static final int manage_user=0x7f060066;
+        public static final int manage_user_dialog_text=0x7f060064;
+        public static final int manage_user_done_button=0x7f060063;
+        public static final int manage_user_email=0x7f060061;
+        public static final int manage_user_email_id=0x7f060062;
         /** Manage User Screen 
          */
-        public static final int manage_user_invite=0x7f060069;
+        public static final int manage_user_invite=0x7f060065;
         /** Manage User Email Screen 
          */
-        public static final int manage_user_text=0x7f060064;
-        public static final int menu_arrowimagedescription=0x7f06007a;
-        public static final int menu_customerid=0x7f060079;
-        public static final int menu_gettingstart=0x7f060078;
-        public static final int menu_logout=0x7f060077;
-        public static final int menu_myaccoount=0x7f060076;
+        public static final int manage_user_text=0x7f060060;
+        public static final int menu_arrowimagedescription=0x7f060076;
+        public static final int menu_customerid=0x7f060075;
+        public static final int menu_gettingstart=0x7f060074;
+        public static final int menu_logout=0x7f060073;
+        public static final int menu_myaccoount=0x7f060072;
         /**  Activity menu screen strings 
          */
-        public static final int menu_settings=0x7f060075;
-        public static final int menu_settings_delete=0x7f06006f;
-        public static final int menu_settings_key=0x7f060073;
-        public static final int menu_settings_password=0x7f060072;
-        public static final int menu_settings_reset=0x7f060070;
+        public static final int menu_settings=0x7f060071;
+        public static final int menu_settings_delete=0x7f06006b;
+        public static final int menu_settings_key=0x7f06006f;
+        public static final int menu_settings_password=0x7f06006e;
+        public static final int menu_settings_reset=0x7f06006c;
         /**  Activity menu settings screen strings 
          */
-        public static final int menu_settings_rsd=0x7f06006e;
-        public static final int menu_settings_send=0x7f060074;
-        public static final int menu_settings_ssid=0x7f060071;
-        public static final int motion_sensor_bone=0x7f060093;
-        public static final int motion_sensor_fibaro=0x7f060095;
+        public static final int menu_settings_rsd=0x7f06006a;
+        public static final int menu_settings_send=0x7f060070;
+        public static final int menu_settings_ssid=0x7f06006d;
+        public static final int motion_sensor_bone=0x7f06008f;
+        public static final int motion_sensor_fibaro=0x7f060091;
         /**  Motion Sensor 
          */
-        public static final int motion_sensor_heading=0x7f0600a5;
+        public static final int motion_sensor_heading=0x7f0600a1;
         /**  Motion sensor screen strings  
          */
-        public static final int motion_sensor_screen_title=0x7f060092;
-        public static final int motion_sensor_wemo=0x7f060094;
-        public static final int multi_sensor_aeon_labs=0x7f060097;
+        public static final int motion_sensor_screen_title=0x7f06008e;
+        public static final int motion_sensor_wemo=0x7f060090;
+        public static final int multi_sensor_aeon_labs=0x7f060093;
         /**  Multi sensor screen strings  
          */
-        public static final int multi_sensor_screen_title=0x7f060096;
-        public static final int multi_sensor_smart_sense=0x7f060098;
-        public static final int my_account_change_pass=0x7f06006c;
+        public static final int multi_sensor_screen_title=0x7f060092;
+        public static final int multi_sensor_smart_sense=0x7f060094;
+        public static final int my_account_change_pass=0x7f060068;
         /** My Account Screen 
          */
-        public static final int my_account_connected_devices=0x7f06006b;
-        public static final int my_account_manage_user=0x7f06006d;
-        public static final int my_security_arm_timer=0x7f0600ad;
-        public static final int my_security_disarm=0x7f0600ac;
+        public static final int my_account_connected_devices=0x7f060067;
+        public static final int my_account_manage_user=0x7f060069;
+        public static final int my_security_arm_timer=0x7f0600a6;
         /**  My Security Settings 
          */
-        public static final int my_security_title=0x7f0600aa;
-        public static final int my_security_view_security_alert=0x7f0600ab;
-        public static final int mysecurity_info_one=0x7f06007c;
-        public static final int mysecurity_info_two=0x7f06007d;
-        /**  my security screen strings 
+        public static final int my_security_title=0x7f0600a5;
+        /**  my devices screen empty strings 
          */
-        public static final int mysecurity_title=0x7f06007b;
+        public static final int mydevices_title=0x7f0600a8;
+        public static final int mysecurity_info_one=0x7f060078;
+        public static final int mysecurity_info_two=0x7f060079;
+        /**  my security screen empty strings 
+         */
+        public static final int mysecurity_title=0x7f060077;
         public static final int password_hint=0x7f060032;
         public static final int phone_no_hint=0x7f060031;
         public static final int rememberme_hint=0x7f060034;
-        public static final int remove_history=0x7f0600a8;
-        public static final int siren_bone=0x7f06009c;
+        public static final int remove_history=0x7f0600a4;
+        public static final int siren_bone=0x7f060098;
         /**  Siren screen strings  
          */
-        public static final int siren_screen_title=0x7f06009b;
-        public static final int smoke_sensor_nest_protect=0x7f06009a;
+        public static final int siren_screen_title=0x7f060097;
+        public static final int smoke_sensor_nest_protect=0x7f060096;
         /**  Smoke sensor screen strings  
          */
-        public static final int smoke_sensor_screen_title=0x7f060099;
+        public static final int smoke_sensor_screen_title=0x7f060095;
         public static final int store_picture_message=0x7f060001;
         public static final int store_picture_title=0x7f060000;
-        public static final int video_cam_dropcam=0x7f06008f;
+        public static final int video_cam_dropcam=0x7f06008b;
         /**  video camera screen strings 
          */
-        public static final int video_cam_title=0x7f06008e;
+        public static final int video_cam_title=0x7f06008a;
         /**  Text on a placeholder buy button when Google Play services is not
          available or up-to-date 
  Text on a button that allows a user to make a payment with Google Wallet
@@ -1216,7 +1246,7 @@ containing a value of this type.
         public static final int wlan_network_instruction_one_string=0x7f060041;
         public static final int wlan_network_instruction_three_string=0x7f060043;
         public static final int wlan_network_instruction_two_string=0x7f060042;
-        public static final int your_string_here=0x7f060061;
+        public static final int your_string_here=0x7f06005d;
     }
     public static final class style {
         /** 
