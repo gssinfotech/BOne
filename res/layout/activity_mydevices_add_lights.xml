@@ -10,7 +10,7 @@
 	    android:layout_height="wrap_content"
 	    android:layout_marginBottom="10dp"
 	    android:padding="5dp"
-	    android:text="Lights"
+	    android:text="@string/mydevices_lights_title"
 	    android:gravity="center"
 	    android:textColor="@color/white"
 	    android:textStyle="bold"
@@ -33,11 +33,11 @@
          android:layout_width="match_parent"
    		 android:layout_height="match_parent"
    		 android:layout_below="@+id/mydevice_addlights_heading"
-   		 >
+   		  android:layout_above="@+id/add_device_ll">
    		 <RelativeLayout 
    		 android:layout_width="match_parent"
    		 android:layout_height="match_parent"
-   		  >
+   		 >
    			 <TextView 
 	    android:id="@+id/add_device_info"
 	    android:layout_width="match_parent"
@@ -55,11 +55,11 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:background="@color/btn_background"
-        android:text="FIND BRIDGE"
+        android:text="@string/mydevices_findbridge_title"
         android:layout_below="@+id/add_device_info"
         android:padding="12dp"
         android:textColor="@color/white"  
-        />
+        android:onClick="onFindBridgeButtonClicked"/>
      <Spinner
         android:id="@+id/mydevice_addlights_select_device_spinner"
         android:layout_width="match_parent"
@@ -99,7 +99,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:background="@color/white"
-        android:hint="+ Enter Serial Number"
+        android:hint="@string/mydevices_entergroupname_hint"
         android:layout_below="@+id/mydevice_addlights_add_location_edittext"
         android:padding="12dp"
         android:singleLine="true"
@@ -111,10 +111,11 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:background="@color/btn_background"
-        android:text="Add Bulb"
+        android:text="@string/mydevices_lights_addbulb"
         android:layout_below="@+id/mydevice_addlights_add_serialnum_edittext"
         android:padding="12dp"
         android:textColor="@color/white"  
+        android:onClick="onAddBulbButtonClicked"
         />
    	</RelativeLayout>
      </ScrollView>

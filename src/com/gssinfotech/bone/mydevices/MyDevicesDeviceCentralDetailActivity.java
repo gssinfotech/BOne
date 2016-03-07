@@ -98,7 +98,7 @@ public class MyDevicesDeviceCentralDetailActivity extends Activity{
 	public void onDeviceCentralDetailButtonOneClicked(View v){
 		//Toast.makeText(getApplicationContext(), "onDropcamButtonClicked", Toast.LENGTH_LONG).show();
 		//startActivity(new Intent(MySecurityDeviceCentralDetailActivity.this, AddSecurityDeviceActivity.class));
-		//setScreenTitleForAddDeviceScreen(1);
+		setScreenTitleForAddDeviceScreen(1);
 	}
 	
 	public void onDeviceCentralDetailButtonTwoClicked(View v){
@@ -116,12 +116,12 @@ public class MyDevicesDeviceCentralDetailActivity extends Activity{
 	 * Starts the activity for button id
 	 * @param button_id
 	 */
-	public void startActivityForButtonId(int button_id,int detail_btn_id,String screen_title){
+	public void startActivityForButtonId(int button_id,int detail_btn_id,String screen_title, Class<?> cls){
 		Bundle b=new Bundle();
 		b.putInt("BUTTON_ID", button_id);
 		b.putInt("DETAIL_BUTTON_ID", detail_btn_id);
 		b.putString("SCREEN_TITLE", screen_title);
-		Intent i=new Intent(MyDevicesDeviceCentralDetailActivity.this, AddSecurityDeviceActivity.class);
+		Intent i=new Intent(MyDevicesDeviceCentralDetailActivity.this, cls);
 		i.putExtras(b);
 		startActivity(i);
 	}
@@ -129,20 +129,20 @@ public class MyDevicesDeviceCentralDetailActivity extends Activity{
 	public void setScreenTitleForAddDeviceScreen(int detailBtnId){
 		switch (buttonId) {
 		case 1:
-			
+			startActivityForButtonId(2, detailBtnId, getResources().getString(R.string.mydevices_central_lights_str),MyDevicesAddLightsAcivity.class);
 			break;
 			
 		case 2:
-			startActivityForButtonId(2, detailBtnId, getResources().getString(R.string.video_cam_title));
+			//startActivityForButtonId(2, detailBtnId, getResources().getString(R.string.video_cam_title));
 			break;
 		case 3:
-			startActivityForButtonId(3, detailBtnId, getResources().getString(R.string.locks_title));
+			//startActivityForButtonId(3, detailBtnId, getResources().getString(R.string.locks_title));
 			break;
 		case 4:
-			startActivityForButtonId(4, detailBtnId, getResources().getString(R.string.motion_sensor_screen_title));
+			//startActivityForButtonId(4, detailBtnId, getResources().getString(R.string.motion_sensor_screen_title));
 			break;
 		case 5:
-			startActivityForButtonId(5, detailBtnId, getResources().getString(R.string.multi_sensor_screen_title));
+			//startActivityForButtonId(5, detailBtnId, getResources().getString(R.string.multi_sensor_screen_title));
 			break;
 			
 		default:

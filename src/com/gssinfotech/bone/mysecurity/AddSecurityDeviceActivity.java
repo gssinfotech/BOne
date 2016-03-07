@@ -63,7 +63,8 @@ public class AddSecurityDeviceActivity extends Activity{
 			
 			break;
 		case 3:
-			startActivity(new Intent(AddSecurityDeviceActivity.this, LocksActivity.class));
+			//startActivity(new Intent(AddSecurityDeviceActivity.this, LocksActivity.class));
+			startActivity(new Intent(AddSecurityDeviceActivity.this, MySecurityActivity.class));
 			break;
 		case 4:
 			startSensorActivity();

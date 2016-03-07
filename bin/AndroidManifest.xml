@@ -103,13 +103,13 @@
         <activity android:name="com.gssinfotech.bone.ManageUserEmailActivity"
             android:screenOrientation="portrait"></activity>
          
-         <activity android:name="com.gssinfotech.bone.mysecurity.DeviceCentralActivity"
+         <activity android:name="com.gssinfotech.bone.mysecurity.MySecurityDeviceCentralActivity"
             android:screenOrientation="portrait"></activity>
         
         <activity android:name="com.gssinfotech.bone.mysecurity.MySecurityEmptyActivity"
             android:screenOrientation="portrait"></activity>
         
-        <activity android:name="com.gssinfotech.bone.mysecurity.DeviceCentralDetailActivity"
+        <activity android:name="com.gssinfotech.bone.mysecurity.MySecurityDeviceCentralDetailActivity"
             android:screenOrientation="portrait"></activity>
         
         <activity android:name="com.gssinfotech.bone.mysecurity.LocksActivity"
@@ -130,23 +130,31 @@
         <activity android:name="com.gssinfotech.bone.mysecurity.ArmSettingActivity"
             android:screenOrientation="portrait"></activity>
          
-             
-        
 
         <activity android:name="com.gssinfotech.bone.mysecurity.SensorActivity"
             android:screenOrientation="portrait"></activity>
         
-         <activity android:name="com.gssinfotech.bone.mysecurity.SirenActivity"
+        <activity android:name="com.gssinfotech.bone.mysecurity.SirenActivity"
             android:screenOrientation="portrait"></activity>
          
-          <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesEmptyActivity"
+        <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesEmptyActivity"
             android:screenOrientation="portrait"></activity>
           
-           <activity android:name="com.gssinfotech.bone.mydevices.MyDeviceAddLightsAcivity"
+           <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesAddLightsAcivity"
             android:screenOrientation="portrait"></activity>
           
            <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesMyRulesActivity"
             android:screenOrientation="portrait"></activity>
+        <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesDeviceCentralActivity"
+            android:screenOrientation="portrait"></activity>
+        
+        <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesDeviceCentralDetailActivity"
+            android:screenOrientation="portrait"></activity>
+        
+        <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesSettingsActivity"
+            android:screenOrientation="portrait"></activity>
+        
+        
 
         <!-- Goolge Maps API Key -->
 		<meta-data

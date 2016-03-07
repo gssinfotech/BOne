@@ -16,6 +16,7 @@
     <color name="add_device_save_btn">#7DB35D</color>
     <color name="add_device_cancel_btn">#4C4B50</color>
     <color name="motion_sensor_background">#2BBBA7</color>
+    <color name="vertical_listview_room_name_color">#E0AC4A</color>
     
     <!-- String values for Create Account Screen -->
     <string name="email_hint">Email</string>
@@ -242,6 +243,19 @@
 
 	 <!-- Devices Screen  -->
 	 <string name="devicesmyrules_title">MY RULES</string>
-
+	 <string name="mydevices_lights_title">LIGHTS</string>
+	 <string name="mydevices_setting_history">HISTORY</string>
+	 <string name="mydevices_setting_my_rules">MY RULES</string>
+	 <string name="mydevices_setting_add_group">+Add Group</string>
+	 <string name="mydevices_findbridge_title">FIND BRIDGE</string>
+	 <string name="mydevices_entergroupname_hint">+ Enter Serial Number</string>
+	 <string name="mydevices_lights_addbulb">Add Bulb</string>
+	 <string name="mydevices_power_energy_powertxt">Power</string>
+	 <string name="mydevices_power_energy_onofftxt">ON/OFF</string>
+	  <string name="mydevices_power_energy_energytxt">Energy</string>
+	    <string name="mydevices_power_energy_heading">Socket1</string>
+	  
+	  
+	 
 </resources>
 

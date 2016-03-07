@@ -140,17 +140,25 @@
         <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesEmptyActivity"
             android:screenOrientation="portrait"></activity>
           
-           <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesAddLightsAcivity"
+        <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesAddLightsAcivity"
             android:screenOrientation="portrait"></activity>
           
-           <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesMyRulesActivity"
+        <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesMyRulesActivity"
             android:screenOrientation="portrait"></activity>
+           
         <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesDeviceCentralActivity"
             android:screenOrientation="portrait"></activity>
         
         <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesDeviceCentralDetailActivity"
             android:screenOrientation="portrait"></activity>
         
+
+        <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesActivity"
+            android:screenOrientation="portrait"></activity>
+
+        <activity android:name="com.gssinfotech.bone.mydevices.MyDevicesSettingsActivity"
+            android:screenOrientation="portrait"></activity>
+
 
         <!-- Goolge Maps API Key -->
 		<meta-data
