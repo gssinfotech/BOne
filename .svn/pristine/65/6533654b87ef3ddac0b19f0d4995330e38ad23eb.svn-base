@@ -1,0 +1,15 @@
+package com.gssinfotech.bone.mydevices;
+
+
+import com.gssinfotech.bone.R;
+import android.app.Activity;
+import android.os.Bundle;
+
+public class MyDevicesAddGroupActivity extends Activity {
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_mydevices_addgroup);
+	}
+}

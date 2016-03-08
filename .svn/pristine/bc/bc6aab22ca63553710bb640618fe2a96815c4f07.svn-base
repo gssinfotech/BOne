@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/app_background">
+    
+      <TextView 
+	    android:id="@+id/mydevice_colorselction_heading"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginBottom="10dp"
+	    android:padding="5dp"
+	    android:text="@string/mydevices_lights_title"
+	    android:gravity="center"
+	    android:textColor="@color/white"
+	    android:textStyle="bold"
+	    android:textSize="17sp"/>
+    
+	  <android.support.v4.view.ViewPager
+   		android:layout_below="@+id/mydevice_colorselction_heading"
+        android:id="@+id/mydevices_colorseletion_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"/>
+ 
+</RelativeLayout>
